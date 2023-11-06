@@ -1,0 +1,58 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "itemName": "Compound Hunting Bow",
+      "price": 319.99,
+      "imgUrl": "src/assets/compound hunting bow.jpg",
+      "description": "Engineered for any hunting situation, in any environment, or backyard recreational use. The huge draw length range of 12 inches and 63 pounds of draw weight is quickly and easily adjusted without the need of a bow press.",
+      "caliber": "N/A",
+      "capacity": 1
+    },
+    {
+      "id": 2,
+      "itemName": "Hunting Rifle",
+      "imgUrl": "src/assets/hunting rifle.jpg",
+      "price": 1589.99,
+      "description": "At 6 pounds and under, the Hunting Rifle is designed to combat elevation and elements while maintaining the performance of a factory blueprinted Hunting Rifle action. The carbon fiber wrapped stainless steel barrel and melonite skeletonized receiver minimize weight for success on any mountain hunt.",
+      "caliber": ".308 Winchester",
+      "capacity": 5
+    },
+    {
+      "id": 3,
+      "itemName": "Hunting Shotgun",
+      "imgUrl": "src/assets/hunting shotgun.jpg",
+      "price": 299.99,
+      "description": "The Hunting Shotgun is a pump action 12 gauge featuring a 3-inch chamber and a 22-inch vent rib barrel equipped with a green fiber optic sight.",
+      "caliber": "12 ga",
+      "capacity": 3
+    },
+    {
+      "id": 4,
+      "itemName": "9mm pistol",
+      "imgUrl": "src/assets/9mm pistol.jpeg",
+      "price": 599.99,
+      "description": "The 9mm Pistol brings an enhanced grip texture allowing for better recoil management and greater comfort. Including optics ready slide with manual thumb safety.",
+      "caliber": "9mm",
+      "capacity": 17
+    },
+    {
+      "id": 5,
+      "itemName": "BB Gun",
+      "imgUrl": "src/assets/bb gun.jpeg",
+      "price": 109.99,
+      "description": "Whether you prefer a rifle scope or open sights, the BB Gun rifle has you covered. The 11mm dovetail rail will securely hold the included 4x32 scope or simply zero in with the easy to see fiber optic sights. Getting a comfortable hold on the BB Gun is aided by the soft rubber butt pad and excellent ergonomics afforded by the polymer stock. The BB Gun is excellent for plinking, target shooting, and pest control and will launch .22 caliber pellets at 800 FPS.",
+      "caliber": ".22 Caliber Pellets",
+      "capacity": 250
+    },
+    {
+      "id": 6,
+      "itemName": "Hunting Knife",
+      "imgUrl": "src/assets/hunting knife.jpeg",
+      "price": 209.99,
+      "description": "Exclusive, elite, and luxurious, the Hunting Knife remains an exceptional choice for hunting or simply as a collectible. Either way, it is a conversation starter. Micarta is known for its strength and durability and is nearly impervious to weather, oils, and solvents, making it slip resistant in wet conditions.",
+      "caliber": "N/A",
+      "capacity": 0
+    }
+  ]
+}
